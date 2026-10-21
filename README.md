@@ -236,4 +236,12 @@ I'm passionate about building innovative solutions and collaborating with talent
 - 📦 Created branch in [adamkorsten0-ui/joke-generator](https://github.com/adamkorsten0-ui/joke-generator)
 
 *(Last updated: 2026-10-21 02:10 UTC)*
+## 🚀 Open to Opportunities
+
+I am currently open to new full-time positions, contract roles, or freelance projects as a **Full-Stack & Android Developer**. Let's build something great together!
+
+* 📧 **Email:** [adamkorsten0@gmail.com](mailto:adamkorsten0@gmail.com)
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+* 
 <!-- END_ACTIVITY -->
